@@ -10,3 +10,4 @@ class RoomController extends Controller
         return 'Room';
     }
 }
+
